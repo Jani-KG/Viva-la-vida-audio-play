@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../11-Ders"
+		},
+		{
+			"path": "../Yeni klasör"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "7-Ders-Audio play"
+	}
+}
